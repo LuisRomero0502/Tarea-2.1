@@ -126,7 +126,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                         style: TextStyle(
                           fontSize: 30.0,
                           fontWeight: FontWeight.w900,
-                          color: Color.fromARGB(255, 33, 171, 167),
+                          color: Color.fromARGB(255, 33, 54, 171),
                         ),
                       ),
                       const SizedBox(
